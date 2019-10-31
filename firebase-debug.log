@@ -1,0 +1,50 @@
+[debug] [2019-10-31T18:42:34.393Z] ----------------------------------------------------------------------
+[debug] [2019-10-31T18:42:34.395Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\intel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-10-31T18:42:34.396Z] CLI Version:   7.4.0
+[debug] [2019-10-31T18:42:34.396Z] Platform:      win32
+[debug] [2019-10-31T18:42:34.396Z] Node Version:  v10.16.3
+[debug] [2019-10-31T18:42:34.397Z] Time:          Thu Oct 31 2019 12:42:34 GMT-0600 (GMT-06:00)
+[debug] [2019-10-31T18:42:34.397Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-31T18:42:34.403Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-31T18:42:34.404Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\intel\Documents\proyectobase
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[debug] [2019-10-31T18:59:55.898Z] ----------------------------------------------------------------------
+[debug] [2019-10-31T18:59:55.901Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\intel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-10-31T18:59:55.902Z] CLI Version:   7.4.0
+[debug] [2019-10-31T18:59:55.902Z] Platform:      win32
+[debug] [2019-10-31T18:59:55.902Z] Node Version:  v10.16.3
+[debug] [2019-10-31T18:59:55.904Z] Time:          Thu Oct 31 2019 12:59:55 GMT-0600 (GMT-06:00)
+[debug] [2019-10-31T18:59:55.904Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-31T18:59:55.919Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-31T18:59:55.920Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\intel\Documents\proyectobase
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
