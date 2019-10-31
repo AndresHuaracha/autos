@@ -1,0 +1,27 @@
+body {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(158, 157, 157);
+}
+ 
+body, a {
+  font-family: sans-serif
+}
+
+h1{
+    color: yellow;
+    font: Times;
+}
+
+footer{
+    clear:both;
+    padding: 20px;
+    border-top: 1px solid black;
+    color: black;
+    font: Times 12px;
+}
+
+p{
+    text-align: center;
+}
